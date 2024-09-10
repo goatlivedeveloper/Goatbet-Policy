@@ -1,6 +1,3 @@
-Goatbet-Policy
-Goatbet Application Policy
-
 General Terms and Conditions
 1.1 By using Goatbet, you agree to abide by these terms and conditions. If you do not agree, please do not use this application.
 
@@ -15,23 +12,25 @@ Account Registration and Security
 
 2.3 You agree to notify Goatbet immediately of any unauthorized use of your account.
 
-Responsible Gaming
-3.1 Goatbet promotes responsible gaming and encourages users to play responsibly.
+Simulated Gambling
+3.1 Goatbet provides a simulated gambling experience for entertainment purposes only. All in-game currency and rewards are virtual and have no real-world value.
 
-3.2 If you feel you may have a problem with gaming, please seek help from professional organizations.
+3.2 No real money is wagered or won in this application. Any in-game purchases are for virtual goods and services and cannot be exchanged for real money or physical prizes.
+
+3.3 Goatbet promotes responsible gaming and encourages users to play responsibly. If you feel you may have a problem with gaming, please seek help from professional organizations.
 
 Privacy Policy
 4.1 Goatbet collects and processes personal data in accordance with its Privacy Policy.
 
 4.2 Your personal data will be used to provide and improve our services, and to comply with legal obligations.
 
-Payment and Withdrawals
-5.1 All deposits and withdrawals are subject to verification checks.
+In-App Purchases
+5.1 Goatbet offers in-app purchases for virtual currency, which can be used to enhance your gameplay. All purchases are non-refundable.
 
-5.2 Goatbet reserves the right to reject or reverse any transaction if fraudulent activity is suspected.
+5.2 Virtual currency has no real monetary value and cannot be transferred, traded, or redeemed for real money.
 
 Bonuses and Promotions
-6.1 Bonuses and promotions are subject to specific terms and conditions.
+6.1 Bonuses and promotions within Goatbet are for virtual goods and services only and do not carry any real-world monetary value.
 
 6.2 Goatbet reserves the right to modify or cancel any bonuses or promotions at any time.
 
@@ -58,4 +57,6 @@ Governing Law
 Contact Information
 11.1 If you have any questions or concerns about these terms and conditions, please contact our customer support team.
 
+Acknowledgment
 By using Goatbet, you acknowledge that you have read, understood, and agree to be bound by these terms and conditions.
+
